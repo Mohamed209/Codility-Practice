@@ -1,3 +1,5 @@
+#problem : https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
+#Solution :
 def solution(a):
     p = []
     for i in range(0, len(a) - 1):
